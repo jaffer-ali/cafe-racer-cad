@@ -1,0 +1,16 @@
+[StartTime]
+Swing Arm-Shock Load.MFC=6s
+[SolverState]
+Swing Arm-Shock Load.MFC=2
+[MainFrame]
+Swing Arm-Shock Load.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Swing Arm-Shock Load.MFC=No
+[SolverType]
+Swing Arm-Shock Load.MFC=Linear Analysis
+[StudyType]
+Swing Arm-Shock Load.MFC=0
+[StudyName]
+Swing Arm-Shock Load.MFC=Shock Load
+[Solver]
+Swing Arm-Shock Load.MFC=Sparse

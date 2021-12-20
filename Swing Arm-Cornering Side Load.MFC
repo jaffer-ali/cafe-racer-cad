@@ -1,0 +1,16 @@
+[StartTime]
+Swing Arm-Cornering Side Load.MFC=7s
+[SolverState]
+Swing Arm-Cornering Side Load.MFC=2
+[MainFrame]
+Swing Arm-Cornering Side Load.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Swing Arm-Cornering Side Load.MFC=No
+[SolverType]
+Swing Arm-Cornering Side Load.MFC=Linear Analysis
+[StudyType]
+Swing Arm-Cornering Side Load.MFC=0
+[StudyName]
+Swing Arm-Cornering Side Load.MFC=Cornering Side Load
+[Solver]
+Swing Arm-Cornering Side Load.MFC=Sparse
